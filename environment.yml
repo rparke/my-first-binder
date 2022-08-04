@@ -1,4 +1,4 @@
-name: sqlalchemy
+name: sqlalchemy-test-two
 channels:
   - conda-forge
   - defaults
