@@ -1,4 +1,4 @@
-name: tornado
+name: tornado-two
 channels:
   - conda-forge
   - defaults
